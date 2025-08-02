@@ -1,0 +1,12 @@
+# This is the list of the iSTRUM Project's significant contributors including
+# both code and intellectual contributions.
+Case, Abigail
+Coonin, Allie
+Dalton, Colleen
+Eilon, Zach 
+Hansen, Lars
+Hein, Diede
+Hariharan, Anant 
+Havlin, Chris 
+Holtzman, Ben
+Salas, Cristhian
