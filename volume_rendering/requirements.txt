@@ -1,0 +1,9 @@
+numpy 
+matplotlib
+yt
+yt_xarray
+yt_idv
+jupyterlab
+scipy
+cartopy
+dask[distributed]
